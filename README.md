@@ -1,0 +1,3 @@
+# Forkify Project
+
+Just a simple recipe application for searching trascking and saving facvorite recipes...
