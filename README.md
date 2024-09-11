@@ -22,11 +22,11 @@ Find any recipe you need through a simple UI, by adding either the dish or even 
 # How to use
 1. **Clone the repository**
     ```
-    git clone https://github.com/JimKonstantinopoulos/forkify.git
+    git clone https://github.com/JimKonstantinopoulos/Forkify.git
     ```
 2. **Navigate to the project directory**
     ```
-    cd forkify
+    cd Forkify
     ```
 3. **Install dependencies**
     ```
